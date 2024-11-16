@@ -1,0 +1,20 @@
+{
+    "name": "@hexaform/ddd",
+    "version": "1.0.0",
+    "description": "Domain Driven Design module for Hexaform",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/hexaform/ddd.git"
+    },
+    "author": "Igor Stojadinović <mightytroll@gmail.com> (https://www.linkedin.com/in/igorstojadinovic/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hexaform/ddd/issues"
+    },
+    "homepage": "https://github.com/hexaform/ddd#readme",
+    "peerDependencies": {
+        "@hexaform/container": "^1.1.0",
+        "@hexaform/events": "^1.0.0"
+    }
+}
